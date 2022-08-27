@@ -1,4 +1,4 @@
-package com.javatpoint.model;
+package com.training.springboot.autoconfiguration.model;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
